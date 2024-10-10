@@ -1,7 +1,7 @@
 # console.log("¡Hola! Te saluda un Full Stack Jr")
 
 # 💫 Un poco sobre mi:
-Ingenieria de Sistemas Informaticos en la Universidad de El Salvador al igual que RPA Developer Foundation & Full Stack Junior 24 - A (KODIGO)
+Ingenieria de Sistemas Informaticos en la Universidad de El Salvador & Full Stack Junior 24 - A (KODIGO)
 
 
 ## 🌐 Redes Sociales:
